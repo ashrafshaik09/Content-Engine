@@ -47,7 +47,7 @@ The Content Engine is a system that analyzes and compares multiple PDF documents
 4. **Download and Setup the Model**
 
     - Download the Llama model from [HuggingFace](https://huggingface.co/)
-    - Place the model file (`Meta-Llama-3-8B-Instruct.Q2_K.gguf`) in the `models` directory.
+    - Place the model file (`Meta-Llama-3-8B-Instruct.Q2_K.gguf`) in the `models` directory (Create a new folder under the main project directory named 'model' and you can download the specific model I have used from this link:https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q2_K.gguf).
 
 5. **Run the Application**
 
