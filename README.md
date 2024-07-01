@@ -4,6 +4,12 @@
 
 The Content Engine is a system that analyzes and compares multiple PDF documents, specifically identifying and highlighting their differences. It uses Retrieval Augmented Generation (RAG) techniques to retrieve, assess, and generate insights from the documents.
 
+
+
+https://github.com/ashrafshaik09/Content-Engine/assets/123177990/249e0e4a-5dea-4890-b730-76bb035340c0
+
+
+
 ## Features
 
 - **Document Parsing and Processing:** Extracts text and structure from PDF documents.
