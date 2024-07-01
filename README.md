@@ -31,8 +31,9 @@ https://github.com/ashrafshaik09/Content-Engine/assets/123177990/249e0e4a-5dea-4
 1. **Clone the Repository**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/ashrafshaik09/Content-Engine.git
+    cd Content-Engine
+
     ```
 
 2. **Create and Activate Virtual Environment**
@@ -53,7 +54,7 @@ https://github.com/ashrafshaik09/Content-Engine/assets/123177990/249e0e4a-5dea-4
 4. **Download and Setup the Model**
 
     - Download the Llama model from [HuggingFace](https://huggingface.co/)
-    - Place the model file (`Meta-Llama-3-8B-Instruct.Q2_K.gguf`) in the `models` directory (Create a new folder under the main project directory named 'model' and you can download the specific model I have used from this link:https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q2_K.gguf).
+    - Place the model file (`Meta-Llama-3-8B-Instruct.Q2_K.gguf`) in the `models` directory (Create a new folder under the main project directory named `models` and you can download the specific model I have used from this link: https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q2_K.gguf).
 
 5. **Run the Application**
 
