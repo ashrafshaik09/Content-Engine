@@ -1,0 +1,15 @@
+streamlit
+langchain
+PyPDF2
+beautifulsoup4
+requests
+pymupdf
+sentence-transformers
+faiss-cpu
+llama_cpp_python
+docarray
+pydantic
+langchain-community
+langchain-chroma
+transformers
+python-dotenv
