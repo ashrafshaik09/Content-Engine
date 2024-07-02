@@ -23,8 +23,6 @@ https://github.com/ashrafshaik09/Content-Engine/assets/123177990/249e0e4a-5dea-4
 ### Prerequisites
 
 - Install Python 3.8 or higher
-- Install CMake: [Download CMake](https://cmake.org/download/)
-- Install Visual Studio Build Tools: [Download VS Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
 ### Installation
 
@@ -92,6 +90,9 @@ https://github.com/ashrafshaik09/Content-Engine/assets/123177990/249e0e4a-5dea-4
 
 - **No pages loaded:** Ensure the PDF files are correctly formatted and accessible.
 - **Unexpected response format:** Check the model integration and ensure the correct model is being used.
+- **Other unexpected errors:** Try to install the following if you get errors like: "ImportError: Could not import llama-cpp-python library. Please install the llama-cpp-python library to use this embedding model: pip install llama-cpp-python", please try the following: 
+- - Install CMake: [Download CMake](https://cmake.org/download/)
+- Install Visual Studio Build Tools: [Download VS Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
 ### Contribution
 
